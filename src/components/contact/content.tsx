@@ -24,7 +24,7 @@ function Content() {
           <a href="mailto:hello@contractorflow.pl">
             <button className="button-main">
               <IoIosMail className="text-xl" />
-              <span>hello@contractorflow.pl</span>
+              <span>hello@crewcore.pl</span>
             </button>
           </a>
         </div>
